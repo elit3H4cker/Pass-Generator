@@ -15,6 +15,7 @@ Python3 {It will only work in Python3}
 
 How to install 
 $sudo apt-get install python3
+or download from python main site
  
  
  
