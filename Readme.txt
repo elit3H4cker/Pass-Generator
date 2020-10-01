@@ -2,6 +2,7 @@
 A Password Generator Python Script 
 By using the logic of Permutaion and combintions
 It can print all possible cases of the user given input 
+and you will get a random 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 How To Use :-
 Each Word or integer after given the input
